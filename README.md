@@ -1,8 +1,8 @@
-###Mobile Robot
-------------
-##code for:
-#arduino
-#esp8266
-#mobile app
+### Mobile Robot
 
-##design schematic:
+## code for:
+1. arduino
+2. esp8266
+3. mobile app
+
+## design schematic:
